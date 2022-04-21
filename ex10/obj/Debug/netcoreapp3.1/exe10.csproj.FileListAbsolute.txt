@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\bin\Debug\netcoreapp3.1\exe10.exe
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\bin\Debug\netcoreapp3.1\exe10.deps.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\bin\Debug\netcoreapp3.1\exe10.runtimeconfig.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\bin\Debug\netcoreapp3.1\exe10.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\bin\Debug\netcoreapp3.1\exe10.dll
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\bin\Debug\netcoreapp3.1\exe10.pdb
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\obj\Debug\netcoreapp3.1\exe10.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\obj\Debug\netcoreapp3.1\exe10.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\obj\Debug\netcoreapp3.1\exe10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\obj\Debug\netcoreapp3.1\exe10.dll
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\obj\Debug\netcoreapp3.1\exe10.pdb
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex10\obj\Debug\netcoreapp3.1\exe10.genruntimeconfig.cache

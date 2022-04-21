@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\bin\Debug\netcoreapp3.1\ex9.exe
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\bin\Debug\netcoreapp3.1\ex9.deps.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\bin\Debug\netcoreapp3.1\ex9.runtimeconfig.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\bin\Debug\netcoreapp3.1\ex9.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\bin\Debug\netcoreapp3.1\ex9.dll
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\bin\Debug\netcoreapp3.1\ex9.pdb
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\obj\Debug\netcoreapp3.1\ex9.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\obj\Debug\netcoreapp3.1\ex9.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\obj\Debug\netcoreapp3.1\ex9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\obj\Debug\netcoreapp3.1\ex9.dll
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\obj\Debug\netcoreapp3.1\ex9.pdb
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex9\obj\Debug\netcoreapp3.1\ex9.genruntimeconfig.cache

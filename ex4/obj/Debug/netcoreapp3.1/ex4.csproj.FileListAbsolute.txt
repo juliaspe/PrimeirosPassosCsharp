@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\bin\Debug\netcoreapp3.1\ex4.exe
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\bin\Debug\netcoreapp3.1\ex4.deps.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\bin\Debug\netcoreapp3.1\ex4.runtimeconfig.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\bin\Debug\netcoreapp3.1\ex4.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\bin\Debug\netcoreapp3.1\ex4.dll
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\bin\Debug\netcoreapp3.1\ex4.pdb
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\obj\Debug\netcoreapp3.1\ex4.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\obj\Debug\netcoreapp3.1\ex4.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\obj\Debug\netcoreapp3.1\ex4.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\obj\Debug\netcoreapp3.1\ex4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\obj\Debug\netcoreapp3.1\ex4.dll
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\obj\Debug\netcoreapp3.1\ex4.pdb
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex4\obj\Debug\netcoreapp3.1\ex4.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\bin\Debug\netcoreapp3.1\ex7.exe
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\bin\Debug\netcoreapp3.1\ex7.deps.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\bin\Debug\netcoreapp3.1\ex7.runtimeconfig.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\bin\Debug\netcoreapp3.1\ex7.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\bin\Debug\netcoreapp3.1\ex7.dll
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\bin\Debug\netcoreapp3.1\ex7.pdb
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\obj\Debug\netcoreapp3.1\ex7.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\obj\Debug\netcoreapp3.1\ex7.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\obj\Debug\netcoreapp3.1\ex7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\obj\Debug\netcoreapp3.1\ex7.dll
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\obj\Debug\netcoreapp3.1\ex7.pdb
+C:\Users\Usuario\source\repos\ExerciciosRepetição\ex7\obj\Debug\netcoreapp3.1\ex7.genruntimeconfig.cache
